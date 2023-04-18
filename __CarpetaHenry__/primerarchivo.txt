@@ -1,0 +1,4 @@
+ls
+code
+mkdir
+touch
